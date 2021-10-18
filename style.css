@@ -1,0 +1,15 @@
+h1 {
+   text-transform: uppercase;
+   text-align: center;
+   font-size: 2rem;
+   color: #EBEA8E;
+   background:  #5F5172;
+   width: 300px;
+}
+
+p {
+   text-align: start;
+   font-size: 2rem;
+   background-color: #eee;
+   width: 500px;
+}
